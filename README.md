@@ -45,4 +45,4 @@
 
 #### プレイデモ動画
 
-YouTube URL: `https://youtu.be/a0q2GQDPtf4`
+YouTube URL: [Click this](https://youtu.be/a0q2GQDPtf4)
