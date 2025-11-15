@@ -37,7 +37,7 @@
 
 #### ゲームプレイの手順
 
-1. `javac GameLauncher.java`を既に実行してあるため、このフォルダ内では不要です。
+1. `javac GameLauncher.java` でコンパイルを行う。
 2. `java GameLauncher`をターミナルで実行するまたは`GameLauncher.class`フィアルをダブルクリックすると、ゲームウィンドウが開かれます。
 3. `New Game`ボタンをクリックすると、ゲームが即座に開始します。
 4. ゲームが実行されているうちに、いつでも`Pause`(一時停止)、`Resume`(再生)、`Help`(ルール説明)、及び`Quit`(ゲーム中止)ボタンの操作が可能です。
